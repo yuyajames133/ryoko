@@ -1,0 +1,8 @@
+streamlit>=1.45,<2
+requests>=2.31
+folium>=0.17
+streamlit-folium>=0.24
+qrcode[pil]>=7.4
+
+pandas>=2.0
+openpyxl>=3.1
